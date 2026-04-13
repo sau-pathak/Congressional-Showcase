@@ -613,5 +613,20 @@
   "district": "WA-06",
   "state": "WA",
   "tags": ["health", "productivity", "habits", "wellness"]
+},
+{
+  "slug": "NC-07",
+  "name": "Edward Burton, Tilghman Reiss, and Bentley Burton",
+  "appName": "Remember When",
+  "description": "Remember When addresses an evergrowing problem with our aging community by providing companionship and comfort to the elderly.",
+  "thumbnail": "sites/NC-07/Assets/RWLogo.jpg",
+  "location": {
+    "lat": 34.225727,
+    "lng": -77.944710,
+    "label": "Wilmington, NC"
+  },
+  "district": "NC-07",
+  "state": "NC",
+  "tags": ["accessibility", "ai"]
 }
 ]
